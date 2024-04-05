@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Margo_Test.props" />
+</Project>
