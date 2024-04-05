@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Margo_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eadbfc405143e2201cb9385f4939f0385e879a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Margo_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Margo_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
